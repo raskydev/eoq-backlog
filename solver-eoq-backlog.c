@@ -1,3 +1,24 @@
+/* =========================================
+   Henrique Rodrigues Ferreira 
+
+ * A.1 - ENTRADA E SAIDA 
+ * ========================================= */
+
+/* =========================================
+   Rayane Kaylla Alves
+
+ * A.2 - FUNCAO f(Q) 
+ * A.3 - ISOLAMENTO DO INTERVALO 
+ * ========================================= */
+
+/* =========================================
+    Julia Cristina Nakano
+
+ * A.4 - METODO DA BISSECCAO 
+ * A.5 - CALCULO DE Q*, B* E CT 
+ * ========================================= */
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
@@ -165,14 +186,6 @@ int main(int argc, char **argv) {
 
     return 0;
 }
-
-// A.1 - entrada dos dados- Henrique
-
- // equação 14 --A.2
-
-
-
-// isolamento do intervalo entre a e b -- A.3
 
 
 
